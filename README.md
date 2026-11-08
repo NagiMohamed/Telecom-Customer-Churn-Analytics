@@ -20,4 +20,4 @@ This project presents an end-to-end Business Intelligence dashboard built in Pow
 - **Data Modeling:** Star schema / Relationship management to fix filter contexts.
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](https://raw.githubusercontent.com/NagiMohamed/Telecom-Customer-Churn-Analytics/main/Image.jpeg)
+![Dashboard Preview](https://raw.githubusercontent.com/NagiMohamed/Telecom-Customer-Churn-Analytics/main/Image.png)
